@@ -1,0 +1,21 @@
+# Dependencies & Build
+node_modules
+dist
+.git-bin
+.DS_Store
+*.log
+
+# Personal & Non-CampusSafe Desktop Files
+1/
+2/
+dld ass/
+*.lnk
+*.pdf
+*.docx
+*.pptx
+*.zip
+*.jpeg
+*.jpg
+desktop.ini
+Screenshot 2026-11-02 203948.png
+Untitled.png

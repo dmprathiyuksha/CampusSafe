@@ -1,0 +1,97 @@
+{
+  "instructions": [
+    {
+      "id": "inst-1",
+      "title": "Stay calm and alert",
+      "subtitle": "Assess your immediate surroundings before taking action.",
+      "color": "emerald",
+      "badge": "Fundamental",
+      "details": "During any alarm or sudden emergency, maintain composure. Panic hinders rational judgment. Look for clear exit paths, identify nearest emergency exits or safety stations, and help those who require assistance."
+    },
+    {
+      "id": "inst-2",
+      "title": "Follow official announcements",
+      "subtitle": "Only rely on verified university alerts and campus security.",
+      "color": "blue",
+      "badge": "Information",
+      "details": "Do not spread unverified rumors across social messaging apps. CampusSafe broadcasts real-time verified updates directly synchronized with the SRMIST Security Control Room and Proctorate."
+    },
+    {
+      "id": "inst-3",
+      "title": "Avoid isolated areas",
+      "subtitle": "Stick to illuminated, CCTV-monitored campus walkways.",
+      "color": "red",
+      "badge": "Prevention",
+      "details": "When commuting across campus after sunset, choose well-lit main arterial avenues (GST Service Road, University Avenue, Hostel Boulevard). Avoid unlit construction sectors or lake edges without accompaniment."
+    },
+    {
+      "id": "inst-4",
+      "title": "Report any suspicious activity",
+      "subtitle": "Security is a shared responsibility among all SRMites.",
+      "color": "green",
+      "badge": "Reporting",
+      "details": "If you notice unattended packages, erratic vehicles, or individuals loitering near residential areas without university identification badges, immediately inform Security or use the CampusSafe 1-Tap SOS."
+    }
+  ],
+  "emergencyProcedures": [
+    {
+      "id": "proc-fire",
+      "title": "Fire & Smoke Evacuation",
+      "icon": "flame",
+      "steps": [
+        "Pull the nearest manual call point fire alarm if not already triggered.",
+        "Evacuate via marked staircases. NEVER use passenger lifts or elevators.",
+        "Stay low if smoke is present; breathe through a cloth.",
+        "Assemble at your department's designated Emergency Assembly Ground."
+      ]
+    },
+    {
+      "id": "proc-med",
+      "title": "Medical Trauma & Fainting",
+      "icon": "heart-pulse",
+      "steps": [
+        "Call SRM Hospital Ambulance immediately via CampusSafe Contacts (+91 98765 43211 DEMO).",
+        "Do not move the injured person if a spinal or neck trauma is suspected.",
+        "Ensure clear airway and loosen tight collar clothing.",
+        "Send someone to the main block entrance to guide paramedics directly to the room."
+      ]
+    },
+    {
+      "id": "proc-lab",
+      "title": "Chemical / Lab Hazard",
+      "icon": "flask-conical",
+      "steps": [
+        "Immediately flush contaminated skin/eyes at the lab Emergency Eye Wash / Drench Shower for 15 minutes.",
+        "Turn off master gas and electrical valves if safe to do so.",
+        "Evacuate the laboratory and close all doors to contain fumes.",
+        "Inform lab superintendents and campus safety marshals immediately."
+      ]
+    }
+  ],
+  "safetyTips": [
+    {
+      "id": "tip-1",
+      "title": "Night Campus Navigation",
+      "summary": "Use the Campus Buddy system when walking back to hostels after late lab hours.",
+      "tags": ["Hostel", "Night", "Security"]
+    },
+    {
+      "id": "tip-2",
+      "title": "Locate Emergency Call Pillars",
+      "summary": "Physical blue light emergency pillars are situated near Tech Park, Library, and Thangel Promenade.",
+      "tags": ["Hardware", "SOS"]
+    },
+    {
+      "id": "tip-3",
+      "title": "Keep Emergency Speed Dials",
+      "summary": "Store SRM Main Gate Security (+91 98765 43210) and Hostel Warden numbers on your speed dial.",
+      "tags": ["Contacts", "Preparedness"]
+    },
+    {
+      "id": "tip-4",
+      "title": "Personal Property Vigilance",
+      "summary": "Never leave laptops, project kits, or personal bags unattended in Java canteen or library desks.",
+      "tags": ["Awareness", "Belongings"]
+    }
+  ]
+}

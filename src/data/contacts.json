@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sec-campus",
+    "name": "Campus Security Control",
+    "role": "24/7 Security Operations Centre",
+    "phone": "+91 98765 43210 (DEMO)",
+    "rawPhone": "+919876543210",
+    "category": "security",
+    "icon": "shield-check",
+    "description": "Primary SRMIST campus security dispatch. Immediate dispatch for on-campus disturbances, escorts, and incident reporting.",
+    "location": "Main Arch Gate Security Post",
+    "available": "24 Hours / 7 Days",
+    "priority": 1
+  },
+  {
+    "id": "med-hospital",
+    "name": "Medical Emergency & Ambulance",
+    "role": "SRM Hospital Trauma Casualty",
+    "phone": "+91 98765 43211 (DEMO)",
+    "rawPhone": "+919876543211",
+    "category": "medical",
+    "icon": "cross",
+    "description": "Immediate campus ambulance dispatch and hospital trauma response. Certified paramedics on standby 24/7.",
+    "location": "SRM Medical College Ground Floor Trauma Centre",
+    "available": "24 Hours / 7 Days",
+    "priority": 2
+  },
+  {
+    "id": "fire-dept",
+    "name": "Campus Fire Safety Station",
+    "role": "Fire Emergency Response",
+    "phone": "+91 98765 43212 (DEMO)",
+    "rawPhone": "+919876543212",
+    "category": "emergency",
+    "icon": "flame",
+    "description": "Rapid fire brigade dispatch equipped with foam tenders, chemical extinguishers, and rescue equipment.",
+    "location": "North Campus Service Station",
+    "available": "24 Hours / 7 Days",
+    "priority": 3
+  },
+  {
+    "id": "police-local",
+    "name": "Maraimalai Nagar Police Station",
+    "role": "Local Law Enforcement",
+    "phone": "+91 98765 43213 (DEMO)",
+    "rawPhone": "+919876543213",
+    "category": "police",
+    "icon": "badge-alert",
+    "description": "Local jurisdiction police station providing support for external incidents, FIR registrations, and highway patrols.",
+    "location": "GST Road, Maraimalai Nagar",
+    "available": "24 Hours / 7 Days",
+    "priority": 4
+  },
+  {
+    "id": "warden-hostel",
+    "name": "Chief Hostel Warden (Hostel Desk)",
+    "role": "Student Residential Support",
+    "phone": "+91 98765 43214 (DEMO)",
+    "rawPhone": "+919876543214",
+    "category": "warden",
+    "icon": "user-check",
+    "description": "Chief residential advisor for hostel curfew emergencies, medical leaves, room maintenance, and hostel security.",
+    "location": "Kaari Hostel Ground Floor Warden Office",
+    "available": "07:00 AM - 11:00 PM (Emergency 24/7)",
+    "priority": 5
+  },
+  {
+    "id": "women-helpline",
+    "name": "Women's Safety & Internal Complaints",
+    "role": "Confidential Support Team",
+    "phone": "+91 98765 43216 (DEMO)",
+    "rawPhone": "+919876543216",
+    "category": "support",
+    "icon": "heart-handshake",
+    "description": "Dedicated confidential assistance, grievance redressing, and campus night escort request line for female students & staff.",
+    "location": "Administrative Block Room 204",
+    "available": "24 Hours / 7 Days",
+    "priority": 6
+  },
+  {
+    "id": "anti-ragging",
+    "name": "Anti-Ragging Squad Squad Line",
+    "role": "Student Welfare Monitoring",
+    "phone": "+91 98765 43217 (DEMO)",
+    "rawPhone": "+919876543217",
+    "category": "support",
+    "icon": "alert-circle",
+    "description": "Zero-tolerance anti-ragging cell with instant anonymity guaranteed. Monitored directly by University Registrar.",
+    "location": "University Administrative Building",
+    "available": "24 Hours / 7 Days",
+    "priority": 7
+  }
+]

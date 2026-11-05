@@ -1,0 +1,68 @@
+[
+  {
+    "id": "alert-1",
+    "type": "Emergency",
+    "title": "Fire Drill – Block B",
+    "summary": "Kindly evacuate the building immediately.",
+    "description": "Annual scheduled evacuation drill conducted by Campus Fire Safety & Security. All faculty, staff, and students inside Block B must move calmly to Designated Assembly Point A on the main sports ground.",
+    "timestamp": "12:45 PM · 27 Sep 2026",
+    "location": "Block B (Academic Wing)",
+    "actionRequired": "Evacuate using marked stairwells. Do NOT use elevators.",
+    "active": true
+  },
+  {
+    "id": "alert-2",
+    "type": "Notice",
+    "title": "Power Outage",
+    "summary": "There will be a power cut in Academic Block.",
+    "description": "Essential campus grid transformer upgrades will cause brief 20-minute intermittent power transitions in Tech Park and BELL Block. Backup generators will supply lab emergency equipment.",
+    "timestamp": "10:20 AM · 27 Sep 2026",
+    "location": "Academic Block & Tech Park",
+    "actionRequired": "Save ongoing digital work. Key elevators remain on backup generators.",
+    "active": false
+  },
+  {
+    "id": "alert-3",
+    "type": "Info",
+    "title": "Class Cancelled",
+    "summary": "ECE Lab classes are cancelled today.",
+    "description": "Due to faculty safety seminar and university symposium preparations, second and third year Electronics & Communication Engineering afternoon lab sessions are rescheduled to Friday.",
+    "timestamp": "08:15 AM · 27 Sep 2026",
+    "location": "ECE Department Labs (Tech Park)",
+    "actionRequired": "Review online materials; check student portal for makeup timetable.",
+    "active": false
+  },
+  {
+    "id": "alert-4",
+    "type": "Notice",
+    "title": "Heavy Rain & Monsoon Advisory",
+    "summary": "Heavy showers forecast for Chengalpattu district.",
+    "description": "Regional meteorological department predicts intense thunderstorm activity this evening. SRMIST internal transit shuttles will run every 10 minutes between Arch Gate, Main Campus, and Hostels until 9:00 PM.",
+    "timestamp": "02:10 PM · 27 Sep 2026",
+    "location": "Campus-Wide",
+    "actionRequired": "Use covered walkways; avoid waterlogged electrical utility posts.",
+    "active": true
+  },
+  {
+    "id": "alert-5",
+    "type": "Info",
+    "title": "Health Centre Free Wellness Clinic",
+    "summary": "Free health screening & first-aid training.",
+    "description": "SRM Medical College Hospital OPD Room 12 is offering complimentary blood pressure screening, BMI index assessments, and CPR certification demo modules for all registered students.",
+    "timestamp": "09:00 AM · 27 Sep 2026",
+    "location": "SRM Hospital OPD Room 12",
+    "actionRequired": "Walk-ins welcome with Student ID card.",
+    "active": false
+  },
+  {
+    "id": "alert-6",
+    "type": "Notice",
+    "title": "Tech Park Lift Maintenance",
+    "summary": "Lifts 3 & 4 undergoing routine safety checks.",
+    "description": "Certified elevator engineering team conducting periodic rope inspections and brake testing. Lifts 1 & 2 operate normally with priority access for mobility-impaired individuals.",
+    "timestamp": "11:30 AM · 27 Sep 2026",
+    "location": "Tech Park Towers",
+    "actionRequired": "Please use staircases for floors 1 to 3 to minimize lift wait times.",
+    "active": false
+  }
+]
